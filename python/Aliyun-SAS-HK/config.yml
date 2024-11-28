@@ -1,0 +1,27 @@
+accounts:
+  - account_name: ""       # 账号名称，用于识别不同的阿里云账号，填写自定义名称
+    access_key_id: ""      # 阿里云账号的 AccessKey ID，需要从阿里云控制台获取
+    access_key_secret: ""  # 阿里云账号的 AccessKey Secret，需要从阿里云控制台获取
+    region_id: ""          # 要创建实例的区域 ID，例如 'cn-hongkong' 或 'cn-hangzhou'
+    image_id: ""           # 实例的镜像 ID，指定你要使用的操作系统或应用环境
+    plan_id: ""            # 实例的套餐 ID，指定你要使用的实例配置
+    period: 0              # 购买时长（单位为月），如 12 表示购买 12 个月
+    auto_renew: False      # 是否自动续费，True 表示自动续费，False 表示不自动续费
+
+  - account_name: ""
+    access_key_id: ""
+    access_key_secret: ""
+    region_id: ""
+    image_id: ""
+    plan_id: ""
+    period: 0
+    auto_renew: False
+
+
+
+# 24香港参数如下
+#region_id='cn-hongkong',
+#image_id='8b798eb927684a08b26bb95da94f5812',
+#plan_id='swas.s2.c2m1s40b30t1.un',
+#period=12,
+#auto_renew=True
