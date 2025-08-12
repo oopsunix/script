@@ -1,0 +1,28 @@
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,javdb.com
+
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,thetvdb
+DOMAIN-KEYWORD,themoviedb
+DOMAIN-KEYWORD,tmdb
+
+DOMAIN,apple-relay.apple.com
+DOMAIN,wiki.metacubex.one
+
+# 机场
+DOMAIN-SUFFIX,kuromis.com
+DOMAIN-SUFFIX,y-too.com
+
+DOMAIN,edgeservices.bing.com
+DOMAIN,sydney.bing.com
+
+# 解决国行设备 Google Play 无法正常下载的问题
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,android.clients.google.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
