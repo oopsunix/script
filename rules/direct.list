@@ -16,6 +16,13 @@
 # SCRIPT: 脚本
 # MATCH: 全匹配
 ##########################################
+#CHECKER
+DOMAIN,ipv4_cu.itdog.cn
+DOMAIN,ipv6_cu.itdog.cn
+DOMAIN,ipv4.lvhai.org
+DOMAIN,ip111.cn
+DOMAIN,ip.sy
+DOMAIN,ip4.now
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,test
 DOMAIN-KEYWORD,linux.do

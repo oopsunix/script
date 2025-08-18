@@ -111,6 +111,17 @@ services:
 
 [![buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/)
+
+
+<details><summary><strong> [点击展开] </strong></summary>
+
+- <img src="https://cdn.simpleicons.org/tether" alt="USDT" width="14"/> USDT(TRC20): `TTwZsLYKstWgTooEP8AnKF9TJadAurE3xp`
+
+- <img src="https://cdn.simpleicons.org/ethereum" alt="ETH" width="14"/>USDT(ERC20): `0xe1e87a0e66e04f2b7b2aa09f44e596f24118bea9`
+
+</details>
+
 ## 📜 License
 
 [MIT License](./license)
