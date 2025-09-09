@@ -1,8 +1,8 @@
 # Readme Demo
 
-![scoop-security](https://socialify.git.ci/oopsunix/script/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F31186294&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+![oopxunix-script](https://socialify.git.ci/oopsunix/script/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133087009&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
-<h1 align="center">scripts</h1>
+<h1 align="center">script</h1>
 
 <div align="center">
 
